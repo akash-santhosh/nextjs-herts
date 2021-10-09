@@ -1,9 +1,9 @@
 export const today = [
     {
-        "siteName": "Day 5",
-        "siteURL": "https://youtu.be/JfJ15haSEmo",
-        "siteImage": "/Day5.png",
-        "siteDesc": "PIT Solutions Pvt Ltd",
-        "eventTime":"Thu Oct 07 2021 19:00:00 GMT+0530 (India Standard Time)"
+        "siteName": "Day 6",
+        "siteURL": "https://www.youtube.com/watch?v=n8Mk31j5Rxw",
+        "siteImage": "/Day6.png",
+        "siteDesc": "Softnotions Technologies Pvt Ltd",
+        "eventTime":"Thu Oct 09 2021 17:00:00 GMT+0530 (India Standard Time)"
     },
 ]
