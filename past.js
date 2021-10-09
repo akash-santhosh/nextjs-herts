@@ -6,6 +6,7 @@ export const past=[
         "siteDesc": "PIT Solutions Pvt Ltd",
         "eventTime":"Thu Oct 07 2021 19:00:00 GMT+0530 (India Standard Time)"
     },
+    {
         "siteName": "Day 4",
         "siteURL": "https://youtu.be/KQx_2djgC_o",
         "siteImage": "/Day4.png",
