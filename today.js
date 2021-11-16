@@ -4,6 +4,6 @@ export const today = [
         "siteURL": "https://www.youtube.com/watch?v=j4zfHr8ZSV8",
         "siteImage": "/Day10.png",
         "siteDesc": "Thinkpalm Technologies Pvt. Ltd.",
-        "eventTime":"Wednesday 2021 19:00:00 GMT+0530 (India Standard Time)"
+        "eventTime":"Wednesday Nov 17 2021 19:00:00 GMT+0530 (India Standard Time)"
     }
 ]
