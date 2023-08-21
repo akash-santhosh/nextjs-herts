@@ -1,4 +1,4 @@
-export const data = [
+export const data = ["Videos", "Flight Details", "Student Details"];
   {
     siteName: "University Account Configuration",
     siteURL: "https://youtu.be/AJkYzBhSrfs",
