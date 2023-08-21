@@ -6,17 +6,17 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Tools</title>
+        <title>Hertz Malayaliezz</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Tools !</a>
+        Hertz Malayaliezz links are found <a href="#">here !</a>
         </h1>
 
         <p className="description">
-          Here you can find some awesome tools related to Design & Development
+          Here you can find the links of Student Resources(this page keeps updating)
         </p>
 
 
