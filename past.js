@@ -1,65 +1,45 @@
-export const past=[
-       {
-        "siteName": "Day 9",
-        "siteURL": "https://www.youtube.com/watch?v=j4zfHr8ZSV8",
-        "siteImage": "/Day9.png",
-        "siteDesc": "Travanleo Info Solutions Pvt. Ltd",
-        "eventTime":"Sunday Oct 12 2021 19:00:00 GMT+0530 (India Standard Time)"
-     },
-     {
-        "siteName": "Day 8",
-        "siteURL": "https://www.youtube.com/watch?v=vbN5GSZBT1A",
-        "siteImage": "/Day8.png",
-        "siteDesc": "Experion Technologies Pvt Ltd",
-        "eventTime":"Sunday Oct 11 2021 19:00:00 GMT+0530 (India Standard Time)"
-     },
-     {
-        "siteName": "Day 7",
-        "siteURL": "https://www.youtube.com/watch?v=ssqerqGDluo",
-        "siteImage": "/Day7.png",
-        "siteDesc": "Triassic Solutions Private Limited",
-        "eventTime":"Sunday Oct 10 2021 19:00:00 GMT+0530 (India Standard Time)"
-    },
-     {
-        "siteName": "Day 6",
-        "siteURL": "https://www.youtube.com/watch?v=n8Mk31j5Rxw",
-        "siteImage": "/Day6.png",
-        "siteDesc": "Softnotions Technologies Pvt Ltd",
-        "eventTime":"Thu Oct 09 2021 17:00:00 GMT+0530 (India Standard Time)"
-    },
-    {
-        "siteName": "Day 5",
-        "siteURL": "https://youtu.be/JfJ15haSEmo",
-        "siteImage": "/Day5.png",
-        "siteDesc": "PIT Solutions Pvt Ltd",
-        "eventTime":"Thu Oct 07 2021 19:00:00 GMT+0530 (India Standard Time)"
-    },
-    {
-        "siteName": "Day 4",
-        "siteURL": "https://youtu.be/KQx_2djgC_o",
-        "siteImage": "/Day4.png",
-        "siteDesc": "Ecesis BPO Services Pvt Ltd",
-        "eventTime":"Tue Oct 06 2021 19:00:00 GMT+0530 (India Standard Time)"
-    },
-    {
-        "siteName": "Day 3",
-        "siteURL": "https://www.youtube.com/watch?v=HwCfe_PGXLQ",
-        "siteImage": "/Day3.png",
-        "siteDesc": "Travancore Analytics Pvt. Ltd",
-        "eventTime":"Tue Oct 05 2021 17:00:00 GMT+0530 (India Standard Time)"
-    },
-    {
-        "siteName":"Day 2",
-        "siteURL":"https://www.youtube.com/watch?v=dcWeYHmMARA",
-        "siteImage":"/Day2.png",
-        "siteDesc":"Zerone Consulting Pvt. Ltd",
-        "eventTime":"Tue Oct 04 2021 17:00:00 GMT+0530 (India Standard Time)"
-    },
-    {
-        "siteName":"Day 1",
-        "siteURL":"https://www.youtube.com/watch?v=o-3x_9yWHVk",
-        "siteImage":"/Day1.png",
-        "siteDesc":"SunTec Business Solutions Pvt. Ltd",
-        "eventTime":"Tue Oct 03 2021 17:00:00 GMT+0530 (India Standard Time)"
-    },
+export const data = [
+  {
+    siteName: "University Account Configuration",
+    siteURL: "https://youtu.be/AJkYzBhSrfs",
+    siteDesc: 
+    "Second step of University Account Configuration, MFA (Multi-Factor Authentication)",
+    category: "Videos",
+  },
+  {
+    siteName: "University Registration Guide - Malayalam",
+    siteURL: "https://youtu.be/7lDq71RmHNs",
+    siteDesc: "A video explaining the registration process of Hertfordshire student registration",
+    category: "Videos",
+  },
+  {
+    siteName: "University App Setup",
+    siteURL: "https://youtu.be/JKrLcqr4KaQ",
+    siteDesc: "Installation and setup guide of University apps",
+    category: "Video",
+  },
+  {
+    siteName: "Form for Flight Details",
+    siteURL: "https://airtable.com/shrZ8mktmu762xOuh",
+    siteDesc: "Fill in the form so that fellow students can find you",
+    category: "Flight Details",
+  },
+  {
+    siteName: "Flight Details Table",
+    siteURL: "https://airtable.com/shr1FBkzvUvsSfiWG/tblZeynHDab7Tlnt4/viwVVKrI34rMLI4Uc?blocks=hide",
+    siteDesc: "Fellow Students filled in the form shows up in this table",
+    category: "Flight Details",
+  },
+  {
+    siteName: "Student Details Form",
+    siteURL: "https://airtable.com/shrx9wkUcnvKC9zOR",
+    siteDesc: "Fill in this form to find fellow students of your course",
+    category: "Student Details",
+  },
+  {
+    siteName: "Student Details Table",
+    siteURL: "https://airtable.com/shrjKnOktIwgolYwl/tbll0XFpmZZgbm2RO/viw3hQDyvil0aRvlt?blocks=hide",
+    siteDesc: "Fellow Students filled in the form shows up in this table",
+    category: "Student Details",
+  },
 ]
